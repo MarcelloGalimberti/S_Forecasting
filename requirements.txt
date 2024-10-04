@@ -17,7 +17,13 @@ astunparse==1.6.3
 async-lru==2.0.4
 async-timeout==4.0.3
 attrs==23.2.0
-autogluon==0.3.1
+autogluon==1.1.1
+autogluon.common==1.1.1
+autogluon.core==1.1.1
+autogluon.features==1.1.1
+autogluon.multimodal==1.1.1
+autogluon.tabular==1.1.1
+autogluon.timeseries==1.1.1
 Babel==2.14.0
 backoff==2.2.1
 beautifulsoup4==4.12.3
