@@ -1,6 +1,6 @@
+autogluon
 streamlit
 pandas
-autogluon.timeseries
 matplotlib.pyplot
 io
 PIL
